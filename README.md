@@ -1,4 +1,4 @@
-# V H GitHub Unzipper Bot
+# V H GitHub Unziper Bot
 
 A Discord bot that downloads and extracts GitHub repositories, then sends the files to users via DM.
 
